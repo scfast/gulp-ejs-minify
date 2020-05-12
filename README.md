@@ -1,6 +1,6 @@
 # gulp-ejs-minify
 
-[![NPM](https://nodei.co/npm/gulp-minify-ejs.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/gulp-minify-ejs/)
+[![NPM](https://nodei.co/npm/gulp-ejs-minify.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/gulp-ejs-minify/)
 
 <table>
 <tr>
@@ -12,7 +12,7 @@
 </tr>
 </table>
 
-## 1.0.3 Update
+## 1.0.4 Update
 ```
 semi-colons are now required at the end of lines
 ```
