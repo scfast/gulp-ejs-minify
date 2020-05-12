@@ -1,7 +1,7 @@
 {
     "name": "gulp-ejs-minify",
     "description": "gulp-ejs-minify is a gulp plugin to minify ejs template file files easily",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "homepage": "https://github.com/scfast/gulp-ejs-minify",
     "repository": {
         "type": "git",
