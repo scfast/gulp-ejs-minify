@@ -8,7 +8,7 @@
 </tr>
 <tr>
 <td>Description</td>
-<td>gulp-minify-ejs is a gulp plugin to minify ejs template or html files or C# .aspx files easily</td>
+<td>gulp-ejs-minify is a gulp plugin to minify ejs template or html files or C# .aspx files easily</td>
 </tr>
 </table>
 
@@ -30,7 +30,7 @@ such as below:
 [Use npm.](https://docs.npmjs.com/cli/install)
 
 ```
-npm install gulp-minify-ejs --save-dev 
+npm install gulp-ejs-minify --save-dev 
 ```
 
 ## Usage
@@ -38,7 +38,7 @@ npm install gulp-minify-ejs --save-dev
 ```javascript
 var gulp = require('gulp'),
     //rename = require("gulp-rename"),
-    minifyejs = require('gulp-minify-ejs')
+    minifyejs = require('gulp-ejs-minify')
 
 gulp.task('minify-html', function() {
   return gulp.src(['src/views/*.ejs','src/views/*.html'])
