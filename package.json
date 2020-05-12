@@ -1,16 +1,16 @@
 {
-    "name": "gulp-minify-ejs",
-    "description": "gulp-minify-ejs is a gulp plugin to minify ejs template file files easily",
+    "name": "gulp-ejs-minify",
+    "description": "gulp-ejs-minify is a gulp plugin to minify ejs template file files easily",
     "version": "1.0.3",
-    "homepage": "https://github.com/Noeek/gulp-minify-ejs",
+    "homepage": "https://github.com/scfast/gulp-ejs-minify",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Noeek/gulp-minify-ejs.git"
+        "url": "https://github.com/scfast/gulp-ejs-minify.git"
     },
     "author": {
-        "name": "Noeek Wang",
-        "email": "noeek@live.cn",
-        "url": "https://github.com/noeek"
+        "name": "Shane Fast",
+        "email": "shane.fast@athennian.com",
+        "url": "https://github.com/scfast"
     },
     "files": [
         "index.js"
