@@ -1,4 +1,4 @@
-# gulp-minify-ejs
+# gulp-ejs-minify
 
 [![NPM](https://nodei.co/npm/gulp-minify-ejs.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/gulp-minify-ejs/)
 
@@ -11,6 +11,11 @@
 <td>gulp-minify-ejs is a gulp plugin to minify ejs template or html files or C# .aspx files easily</td>
 </tr>
 </table>
+
+## 1.0.3 Update
+```
+semi-colons are now required at the end of lines
+```
 
 ## 1.0.2 Update
 ```
@@ -46,5 +51,5 @@ gulp.task('minify-html', function() {
 ## LICENSE
 
 [MIT](./LICENSE) © [Noeek Wang](https://github.com/noeek)
-
+[MIT](./LICENSE) © [Noeek Wang](https://github.com/scfast)
  
