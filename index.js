@@ -116,6 +116,9 @@ module.exports = function(file) {
                             intagin = false;
                         }
                     }
+                    if (contents[i + 1] !== ';' && contents[i + 2] !== ';') {
+                        throw new PluginError('gulp-minify-ejs', 'Syntax error - missing semicolon');
+                    }
                 }
             }
             return htmlBuilder.join('');
